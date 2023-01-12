@@ -1,0 +1,12 @@
+.headerNav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+.headerNav a {
+  text-decoration: none;
+  color: white;
+}
+.headerNav {
+  width: 40%;
+}
